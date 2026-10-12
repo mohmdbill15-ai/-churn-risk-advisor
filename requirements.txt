@@ -3,4 +3,4 @@ scikit-learn==1.6.1    # replace with the version printed in Task 1.1
 pandas
 numpy
 joblib
-# xgboost==2.0.3       # uncomment ONLY if your final model is XGBoost
+xgboost==2.0.3       # uncomment ONLY if your final model is XGBoost
